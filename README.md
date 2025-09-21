@@ -1,4 +1,7 @@
 Hospital Performance Insights (Hero Vired Capstone)
+
+
+
 📌 Project Overview
 
 This project analyzes the performance of 5,300+ hospitals across key domains (Mortality, Safety, Readmissions) to identify high-performing hospitals and highlight areas needing improvement. An interactive Power BI dashboard was developed to help stakeholders visualize hospital performance, drill into details, and run What-If analyses to simulate improvement scenarios.
